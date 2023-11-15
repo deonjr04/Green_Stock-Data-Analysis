@@ -1,13 +1,18 @@
 # Green_Stock-Data-Analysis
 
+![Screenshot (9)](https://github.com/deonjr04/Green_Stock-Data-Analysis/assets/146729697/d3194b57-2f0c-4ffb-9e97-4f59fda2314d)
+This is the first I maybe to analysis the stock data. It reads over and picks the best stocks to invest in at a normal pace for 2018.
+
+![Screenshot (10)](https://github.com/deonjr04/Green_Stock-Data-Analysis/assets/146729697/cd6af545-7b97-49b2-85c0-300577164d5e)
+This is a similar code that analysis the data but it does it faster for 2018.
+
+![Screenshot (11)](https://github.com/deonjr04/Green_Stock-Data-Analysis/assets/146729697/b2f17825-a629-4905-8f79-d58f46dcb415)
+
 
 ![Screenshot (12)](https://github.com/deonjr04/Green_Stock-Data-Analysis/assets/146729697/67573695-e496-4dd1-95cf-3f126716df64)
 
-![Screenshot (10)](https://github.com/deonjr04/Green_Stock-Data-Analysis/assets/146729697/cd6af545-7b97-49b2-85c0-300577164d5e)
 
-![Screenshot (9)](https://github.com/deonjr04/Green_Stock-Data-Analysis/assets/146729697/d3194b57-2f0c-4ffb-9e97-4f59fda2314d)
 
-![Screenshot (11)](https://github.com/deonjr04/Green_Stock-Data-Analysis/assets/146729697/b2f17825-a629-4905-8f79-d58f46dcb415)
 
 Steve loves the workbook you prepared for him. At the click of a button, he can analyze an entire dataset. Now, to do a little more research for his parents, he wants to expand the dataset to include the entire stock market over the last few years. Although your code works well for a dozen stocks, it might not work as well for thousands of stocks. And if it does, it may take a long time to execute.
 In this challenge, you’ll edit, or refactor, the Module 2 solution code to loop through all the data one time in order to collect the same information that you did in this module. Then, you’ll determine whether refactoring your code successfully made the VBA script run faster. Finally, you’ll present a written analysis that explains your findings.
