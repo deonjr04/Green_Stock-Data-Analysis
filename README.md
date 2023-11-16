@@ -18,6 +18,6 @@ Steve loves the workbook you prepared for him. At the click of a button, he can 
 In this challenge, you’ll edit, or refactor, the Module 2 solution code to loop through all the data one time in order to collect the same information that you did in this module. Then, you’ll determine whether refactoring your code successfully made the VBA script run faster. Finally, you’ll present a written analysis that explains your findings.
 Refactoring is a key part of the coding process. When refactoring code, you aren’t adding new functionality; you just want to make the code more efficient—by taking fewer steps, using less memory, or improving the logic of the code to make it easier for future users to read. Refactoring is common on the job because first attempts at code won’t always be the best way to accomplish a task. Sometimes, refactoring someone else’s code will be your entry point to working with the existing code at a job.
 
-The advantages of using this code is. It helps sorts out what stocks that are good to invest in and what are not. 
+The advantages of using this code is it helps sorts out what stocks that are good to invest in and what are not. It reads the data that is given. It sorts out the stocks by putting in the requirements that needs to be met for the 2017 and 2018 stocks. 
 
 
