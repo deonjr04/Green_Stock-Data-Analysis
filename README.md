@@ -7,10 +7,15 @@ This is the first I maybe to analysis the stock data. It reads over and picks th
 This is a similar code that analysis the data but it does it faster for 2018.
 
 ![Screenshot (11)](https://github.com/deonjr04/Green_Stock-Data-Analysis/assets/146729697/b2f17825-a629-4905-8f79-d58f46dcb415)
-This code is looking for what is the best stock to invest in for 2017.
+This code is looking for what is the best stock to invest in for 2017 by reading the data.
 
 ![Screenshot (12)](https://github.com/deonjr04/Green_Stock-Data-Analysis/assets/146729697/67573695-e496-4dd1-95cf-3f126716df64)
 This code search the data at a faster rate to find the best stock for 2017.
+
+
+
+
+
 
 
 
